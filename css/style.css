@@ -1,0 +1,38 @@
+.margin1{
+	width:150px;
+	height:150px;
+	background-color: teal;
+	margin:100px;
+}
+.margin2{
+	width:150px;
+	height:150px;
+	background-color: black;
+	margin-left:100px 50px 30px 20px;
+}
+.padding1{
+	width:150px;
+	height:150px;
+	background-color: blue;
+	padding: 100px;
+}
+
+.padding2{
+	width:150px;
+	height:150px;
+	background-color: black;
+	padding: 100px 50px 30px 20px;
+}
+table, th, td{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	padding:15px;
+}
+th{
+	text-align:left;
+}
+table{
+	border-spacing:5px;
+}
